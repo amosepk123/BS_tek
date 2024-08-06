@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
       initialRoute: "/",
       title: "BS Tek",
       debugShowCheckedModeBanner: false,
-      home: Login(),
+      home: splash_screen(),
     );
   }
 }
